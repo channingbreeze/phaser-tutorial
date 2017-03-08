@@ -4,6 +4,7 @@
     "description": "一本讲述Phaser全面知识的书，版权归Phaser小站所有",
     "output.name": "site",
     "language": "zh-hans",
+    "gitbook": "3.2.2",
     "links": {
         "sidebar": {
             "Phaser小站": "https://www.phaser-china.com/"
