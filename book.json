@@ -19,7 +19,7 @@
         "-fontsettings",
         "-sharing",
         "github",
-        ""ace""
+        "ace"
     ],
     "pluginsConfig": {
         "github": {
