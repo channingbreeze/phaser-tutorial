@@ -14,13 +14,5 @@
         "pdf": "styles/pdf.css", 
         "mobi": "styles/mobi.css", 
         "epub": "styles/epub.css" 
-    },
-    "plugins": [ 
-        "github" 
-    ], 
-    "pluginsConfig": { 
-        "github": { 
-            "url": "https://github.com/channingbreeze/phaser-tutorial" 
-        } 
     }
 }
