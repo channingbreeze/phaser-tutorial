@@ -6,6 +6,9 @@
     "language": "zh-hans",
     "gitbook": "3.2.2",
     "root": ".",
+    "structure": { 
+        "readme": "introduction.md" 
+    },
     "links": {
         "sidebar": {
             "Phaser小站": "https://www.phaser-china.com/"
