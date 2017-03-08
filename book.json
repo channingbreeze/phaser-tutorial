@@ -17,10 +17,10 @@
     },
     "plugins": [
         "github"
-     ],
-     "pluginsConfig": {
-         "github": {
-             "url": "https://github.com/channingbreeze/phaser-tutorial"
-         }
-     }
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/channingbreeze/phaser-tutorial"
+        }
+    }
 }
