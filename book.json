@@ -15,7 +15,9 @@
         "mobi": "styles/mobi.css", 
         "epub": "styles/epub.css" 
     },
-    "plugins": [ "github" ], 
+    "plugins": [ 
+        "github" 
+    ], 
     "pluginsConfig": { 
         "github": { 
             "url": "https://github.com/zhangjikai" 
