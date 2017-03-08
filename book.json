@@ -7,7 +7,7 @@
     "gitbook": "3.2.2",
     "root": ".",
     "structure": {
-        "readme": "README.md"
+        "readme": "SUMMARY.md"
     },
     "links": {
         "sidebar": {
