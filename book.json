@@ -17,6 +17,7 @@
     },
     "plugins": [
         "-font-settings",
+        "-search",
         "-sharing",
         "github"
     ],
