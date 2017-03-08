@@ -1,12 +1,12 @@
 {
-    "title" : "Phaser从入门到精通",
-    "author" : "channingbreeze",
-    "description" : "一本讲述Phaser全面知识的书，版权归Phaser小站所有",
+    "title": "Phaser从入门到精通",
+    "author": "channingbreeze",
+    "description": "一本讲述Phaser全面知识的书，版权归Phaser小站所有",
     "output.name": "site",
-    "language" : "zh-hans",
-    "links" : {
-        "sidebar" : {
-            "Phaser小站" : "https://www.phaser-china.com/"
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "Phaser小站": "https://www.phaser-china.com/"
         }
     },
     "styles": { 
