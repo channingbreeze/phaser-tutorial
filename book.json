@@ -16,7 +16,7 @@
         "epub": "styles/epub.css" 
     },
     "plugins": [
-        "-fontSettings",
+        "-font-settings",
         "-sharing",
         "github"
     ],
