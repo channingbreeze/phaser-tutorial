@@ -1,7 +1,7 @@
 ### 目录
 * [目录](SUMMARY.md)
 
-### 开山入门
+### 开山见门
 * [前言](PREFACE.md)
 * [介绍](INTRODUCTION.md)
 * [基本概念](CONCEPT.md)
