@@ -21,6 +21,18 @@
 * [瓦片地图](TILEMAP.md)
 * [骨骼动画](SKELETON.md)
 
+### IDE之MightyEditor
+* [开门见山](PMEPRE.md)
+* [基础知识](PMEBASIC.md)
+* [基础动画](PMEANIMATION.md)
+* [基础物理](PMEPHYSICS.md)
+* [瓦片地图](PMETILEMAP.md)
+* [杂项](PMEOTHER.md)
+
+### 微信小程序
+* [移植篇](WXADAPT.md)
+* [案例篇](WXDEMO.md)
+
 ### 源码解读
 * [源码架构](STRUCTURE.md)
 
