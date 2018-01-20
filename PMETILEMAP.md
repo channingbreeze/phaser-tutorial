@@ -62,4 +62,3 @@ setCollision(1)表示地图块精灵图中第1帧为碰撞元素
 setCollisionBetween(0,3);表示0~3索引之间的元素都为碰撞元素
 
 setCollisionByExclusion([0,1,4,5,6,7,8,11]);表示除了数组中的其余都为碰撞元素
-
