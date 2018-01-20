@@ -25,23 +25,37 @@ MightyEditor是一个基于浏览器的可视化Phaser游戏编辑器。使用�
 ###### 安装方法
 
 首先，在[github](https://github.com/TheMightyFingers/mightyeditor)上下载编辑器源码。
+
 二则，确保你的电脑上已经安装好nodejs。
+
 三则，进入编辑器目录中的server目录，
 按住shift键并鼠标右键，选择命令窗口，
 输入npm install，安装后输入node Server.js，
 最后在浏览器地址栏输入locahost:8080即可。
 注意:如果安装失败则请到Phaser小站QQ群下载   Win7/Win10/Mac
+
 ## 第一个PME项目
 作为第一个项目，就简单的写一个hello world吧。
 首先介绍一下开发环境：
+
 ![](assets/PMEPRE/0.png)
+
 在地图编辑器上画出游戏对象：
+
 ![](assets/PMEPRE/1.png)
+
 在动画编辑器创建动画：
+
 ![](assets/PMEPRE/5.png)
+
 进入到代码编辑器界面：
+
 ![](assets/PMEPRE/2.png)
+
 简单实现代码：
+
 ![](assets/PMEPRE/3.png)
+
 看下执行效果：
+
 ![](assets/PMEPRE/4.gif)
