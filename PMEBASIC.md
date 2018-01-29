@@ -1,4 +1,9 @@
 # Phaser MightyEditor Tutorials
+
+感谢吕老师提供的[MightyEditor教程](PMEPRE.md)，MightyEditor是一个Phaser的IDE，吕老称其为黑马，大家觉得好的话可以扫描下方二维码给吕老师打赏。
+
+![吕老师的打赏二维码](assets/PREFACE/lvlao.png  "吕老师的打赏二维码")
+
 ## 基础知识
 
 [![](assets/PMECOMMON/logo.png)](http://mightyeditor.mightyfingers.com/) 

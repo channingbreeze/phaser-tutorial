@@ -13,6 +13,8 @@
 * [场景详解](STATE.md)
 * [加载资源](LOADER.md)
 * [屏幕适配](SCALE.md)
+* [精灵详解](SPRITE.md)
+* [组详解]( GROUP.md)
 
 ### 实战案例
 * [飞机大战](PLANE.md)
@@ -34,5 +36,6 @@
 * [案例篇](WXDEMO.md)
 
 ### 源码解读
+* [编译自己的Phaser](COMPILE.md)
 * [源码架构](STRUCTURE.md)
 
