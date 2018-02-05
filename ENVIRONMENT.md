@@ -12,7 +12,7 @@
 
 ## http-server环境搭建教程
 
-http-server是基于nodejs的，所以第一步，我们先安装nodejs，从node的官网下载nodejs的安装包进行安装就行。
+http-server是基于nodejs的，所以第一步，我们先安装nodejs，从node的[官网](https://nodejs.org/en/)下载nodejs的安装包进行安装就行。
 
 安装完成之后，在你电脑的终端运行node -v查看一下node版本：
 
